@@ -77,6 +77,3 @@ All figures are generated using the datasets in the current repository:
 * **Residual Analysis:**
   - *Residuals vs. Fitted:* Confirms homoscedasticity and absence of systematic patterns.
   - *Residual Distribution:* Verified to be zero-centered and normally distributed.
-
----
-
