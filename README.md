@@ -2,7 +2,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An end-to-end Machine Learning project applying **Regularized Polynomial Regression** to solve two multi-stage geothermal energy challenges: optimizing surface steam turbine performance and mapping 3D subterranean thermal reservoirs.
 
